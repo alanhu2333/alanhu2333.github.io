@@ -3,7 +3,7 @@
     "relation": ["delegate_permission/common.handle_all_urls", "delegate_permission/common.get_login_creds"],
     "target": {
       "namespace": "android_app",
-      "package_name": "cn.futu.trader.integrate_web3_wallet_feature",
+      "package_name": "cn.futu.trader.web3",
       "sha256_cert_fingerprints": ["A8:72:81:A1:FD:6A:FE:5F:E5:01:CD:BA:1A:60:99:26:E3:49:18:96:74:D9:9D:01:CF:05:A9:7A:4C:9B:CC:59"]
     }
   }
