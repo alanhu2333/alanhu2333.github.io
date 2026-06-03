@@ -14,5 +14,21 @@
       "package_name": "com.moomoo.trade.web3",
       "sha256_cert_fingerprints": ["14:CA:70:AA:2A:38:B0:0E:9C:BE:58:E3:06:43:71:13:92:D0:42:F6:DA:39:C6:CA:B1:AA:EA:57:35:35:77:0D"]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls", "delegate_permission/common.get_login_creds"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "cn.futu.trader.integrate_web3_wallet_feature",
+      "sha256_cert_fingerprints": ["14:CA:70:AA:2A:38:B0:0E:9C:BE:58:E3:06:43:71:13:92:D0:42:F6:DA:39:C6:CA:B1:AA:EA:57:35:35:77:0D"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls", "delegate_permission/common.get_login_creds"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.moomoo.trade.integrate_web3_wallet_feature",
+      "sha256_cert_fingerprints": ["14:CA:70:AA:2A:38:B0:0E:9C:BE:58:E3:06:43:71:13:92:D0:42:F6:DA:39:C6:CA:B1:AA:EA:57:35:35:77:0D"]
+    }
   }
 ]
