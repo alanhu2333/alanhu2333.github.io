@@ -3,14 +3,14 @@
     "apps": [],
     "details": [
       {
-        "appID": "VA9N4CTFC2.com.checkran.cpplearn.TestSecret",
+        "appID": "3AVZ2LDCP5.com.checkran.cpplearn.TestSecret",
         "paths": ["*"]
       }
     ]
   },
   "webcredentials": {
     "apps": [
-      "VA9N4CTFC2.com.checkran.cpplearn.TestSecret"
+      "3AVZ2LDCP5.com.checkran.cpplearn.TestSecret"
     ]
   }
 }
