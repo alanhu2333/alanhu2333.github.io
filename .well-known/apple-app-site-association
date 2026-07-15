@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "ZMG9VZ67JF.com.checkran.cpplearn.TestSecret",
+        "paths": ["*"]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "ZMG9VZ67JF.com.checkran.cpplearn.TestSecret"
+    ]
+  }
+}
