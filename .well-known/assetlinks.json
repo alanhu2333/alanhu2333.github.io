@@ -15,4 +15,17 @@
       "sha256_cert_fingerprints": ["14:CA:70:AA:2A:38:B0:0E:9C:BE:58:E3:06:43:71:13:92:D0:42:F6:DA:39:C6:CA:B1:AA:EA:57:35:35:77:0D"]
     }
   }
+  [
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.paymentdemorn",
+      "sha256_cert_fingerprints": ["A8:72:81:A1:FD:6A:FE:5F:E5:01:CD:BA:1A:60:99:26:E3:49:18:96:74:D9:9D:01:CF:05:A9:7A:4C:9B:CC:59"]
+    }
+  }
+]
 ]
