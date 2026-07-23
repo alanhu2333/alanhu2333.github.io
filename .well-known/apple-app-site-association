@@ -1,21 +1,8 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "3AVZ2LDCP5.com.checkran.cpplearn.TestSecret",
-        "paths": ["*"]
-      }
-    ]
-  },
   "webcredentials": {
     "apps": [
-      "3AVZ2LDCP5.com.checkran.cpplearn.TestSecret"
-    ]
-  },
-  "webcredentials": {
-    "apps": [
-      "LC7CSK5KJV.org.reactjs.native.example.PaymentDemoRN"
+      "LC7CSK5KJV.org.reactjs.native.example.PaymentDemoRN",
+      "3AVZ2LDCP5.org.reactjs.native.example.PaymentDemoRN"
     ]
   }
 }
