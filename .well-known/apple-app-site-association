@@ -12,5 +12,10 @@
     "apps": [
       "3AVZ2LDCP5.com.checkran.cpplearn.TestSecret"
     ]
+  },
+  "webcredentials": {
+    "apps": [
+      "LC7CSK5KJV.org.reactjs.native.example.PaymentDemoRN"
+    ]
   }
 }
